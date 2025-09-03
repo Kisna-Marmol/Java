@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6243a41d-c012-4f95-81da-f32a22376b62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitivos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionDeTipos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringConcatenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringExtensionArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringInmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodosArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringValidar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosCaracteres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosEnteros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemasNumericos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Xg6cxwq19GOO2znkoTd0vRzM8h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Cursos/Java/Primitivos&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Cursos/Java/Primitivos/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjemploStringMetodosArreglos">
+    <configuration name="EjemploStringExtensionArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringExtensionArchivo" />
+      <module name="Primitivos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploStringMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringMetodos" />
+      <module name="Primitivos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploStringMetodosArreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringMetodosArreglos" />
+      <module name="Primitivos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploStringTestRendimientoConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringTestRendimientoConcat" />
+      <module name="Primitivos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploStringValidar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringValidar" />
+      <module name="Primitivos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjemploStringMetodosArreglos" />
+        <item itemvalue="Application.EjemploStringExtensionArchivo" />
+        <item itemvalue="Application.EjemploStringMetodos" />
+        <item itemvalue="Application.EjemploStringValidar" />
+        <item itemvalue="Application.EjemploStringTestRendimientoConcat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6243a41d-c012-4f95-81da-f32a22376b62" name="Changes" comment="" />
+      <created>1699038462605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699038462605</updated>
+    </task>
+    <servers />
+  </component>
+</project>

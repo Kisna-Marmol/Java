@@ -9,10 +9,20 @@ public class EjemploMatricesStringFor {
         nombres[2][0] = "Lucas";
         nombres[2][1] = "Pacha";
 
+        System.out.println("Iterando con for:");
         for (int i = 0; i < nombres.length; i++){
             for (int j = 0; j < nombres[i].length; j++){
-                System.out.println("Nombres: "+nombres[i][j]);
+                System.out.print(nombres[i][j] + "\t");
             }
+            System.out.println();
+        }
+
+        System.out.println("Iterando con foreach:");
+        for (String[] fila : nombres){
+            for (String nombre : fila){
+                System.out.print(nombre + "\t");
+            }
+            System.out.println();
         }
     }
 }
